@@ -22,7 +22,8 @@ fakeAge();
 
 fakeAge({type: 'child'});
 //=> 10
-// Allowed types are: child, teen, adult, senior
+
+// Allowed type: child, teen, adult, senior
 ```
 
 ## Tests
