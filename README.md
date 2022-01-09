@@ -15,12 +15,12 @@ $ npm install --save @fakerjs/age
 ## Usage
 
 ```js
-import fakeAge from '@fakerjs/age';
+import age from '@fakerjs/age';
 
-fakeAge();
+age();
 //=> 42
 
-fakeAge({type: 'child'});
+age({type: 'child'});
 //=> 10
 
 // Allowed type: child, teen, adult, senior

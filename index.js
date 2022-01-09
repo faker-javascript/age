@@ -1,4 +1,4 @@
-export default function fakeAge(options) {
+export default function age(options) {
     options = options || {};
     let min = 0;
     let max = 100;
