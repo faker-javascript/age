@@ -1,4 +1,4 @@
 interface Options {
-    type: string;
+    type?: string;
 }
 export default function age(options?: Options): number;
