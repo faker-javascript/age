@@ -9,8 +9,14 @@ Age package provides functionality to generate a fake age value.
 
 ## Install
 
+npm
 ```
-$ npm install --save @fakerjs/age
+npm install @fakerjs/age --save-dev
+```
+
+yarn
+```
+yarn add @fakerjs/age -D
 ```
 
 ## Usage
